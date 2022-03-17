@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Kayque Eduardo
 #### Criei este perfil para publicar meus projetos, minhas ideias e meus estudos.
 
-- 🔭 Hoje trabalho com...
-- 🌱 Estudando HTML, CSS, JavaScript e React
+- 🔭 Hoje trabalho com Front-end
+- 🌱 Estudando JavaScript  e TypeScript
 
 <div>
   <a href="https://github.com/silvakayque">
