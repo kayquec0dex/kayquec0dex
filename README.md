@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blue&style=flat">
 <div align='left'>
     <a href="https://github.com/silvakayque">
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
