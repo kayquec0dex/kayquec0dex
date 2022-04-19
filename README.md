@@ -48,6 +48,6 @@
      
 <div>
  <a href="https://github.com/silvakayque">
- https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg
+ <img scr="https://raw.githubusercontent.com/rafaballerini/rafaballerini/88ec4c0bff2cd23ea7f7ac3dbe2f37d23d86c45e/github-contribution-grid-snake.svg"
 <div>
                            
