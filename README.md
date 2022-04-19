@@ -11,7 +11,9 @@
 <div align="center">
   
   ### For Me>
- 
+    
+ ```js
+    </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
             Skills: "Coder, Full Stack Developer",
         Main_Langs: "JS, Python",
@@ -29,25 +31,25 @@
 </p>
 
 <h3 align="center">Languages & Frameworks</h3>
-<p align="center"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
 
  ### My Github Stats
      
-</p>
 <div align="center">
-  <a href="https://github.com/silvakayque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/silvakayque">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
       
  ### Top Languages Uses
           
  <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=midnight-purple"/>
       
  ### Stats Graphic
      
 <div>
-  <a href="https://github.com/silvakayque">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
+<a href="https://github.com/silvakayque">
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
     
 <div>
                            
