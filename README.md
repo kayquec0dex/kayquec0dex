@@ -15,7 +15,7 @@
  ```js
     </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
-            Skills: "Coder, Full Stack Developer",
+            Skills: "Coder, Back-end Developer",
         Main_Langs: "JS, Python",
          Web_Langs: "Javascript, Django",
               Tech: "Git, NodeJs",
