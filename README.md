@@ -17,7 +17,7 @@
    const ME = {
             Skills: "Coder, Full Stack Developer",
         Main_Langs: "JS, Python",
-         Web_Langs: "Javascript",
+         Web_Langs: "Javascript, Django",
               Tech: "Git, NodeJs",
                 SO: "Ubuntu, Windows",
     };
