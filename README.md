@@ -4,7 +4,7 @@
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
     <img src="https://raw.githubusercontent.com/tanashic0dex/tanashic0dex/main/7a756c4b22b79583b4168034011694e9.jpg">
     <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Seja+muito+Bem-Vindo+ao+Meu+Perfil.">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Kayque+Silva.">
 </div>
     
 </div>
