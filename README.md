@@ -47,7 +47,8 @@
  ### Stats Graphic
      
 <div>
- <a href="https://github.com/silvakayque">
- <img scr="https://raw.githubusercontent.com/rafaballerini/rafaballerini/88ec4c0bff2cd23ea7f7ac3dbe2f37d23d86c45e/github-contribution-grid-snake.svg"
+  <a href="https://github.com/silvakayque">
+  <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=silvakayque&theme=github&bg_color=20232a&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
 <div>
                            
