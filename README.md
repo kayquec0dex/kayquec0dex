@@ -1,7 +1,7 @@
 <div align='left'>
     <a href="https://github.com/silvakayque">
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
-    <img src="https://raw.githubusercontent.com/tanashic0dex/tanashic0dex/main/7a756c4b22b79583b4168034011694e9.jpg">
+    <img src="https://media.discordapp.net/attachments/961563489598582804/963854102499041350/1e35a886b21272bd16713fb3f3c2da5a.png">
     <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Seja+bem+vindo+ao+meu+perfil+!">
 </div>
