@@ -12,7 +12,6 @@
   ### For Me>
     
  ```js
-    </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
             Skills: "Coder, Full Stack Developer",
         Main_Langs: "JS, Python",
