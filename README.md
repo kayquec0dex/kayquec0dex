@@ -3,7 +3,7 @@
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
     <img src="https://media.discordapp.net/attachments/946844072159625256/961671422642622484/36cfc60c4f7ad5fc595ecf3e5213edf5.jpg">
     <div align="center">
-    <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Welcome+to+my+profile+!"></div>
+    <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Wassup+!+Welcome+to+my+profile+!"></div>
 </div>
     
 </div>
