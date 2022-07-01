@@ -1,7 +1,7 @@
 <div align='left'>
     <a href="https://github.com/silvakayque">
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
-    <img src="https://images5.alphacoders.com/714/thumb-1920-714548.png">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fcb47dee-8a60-46e6-b5bf-9b12fd0f4c23/deg7zml-89cd20e0-a3ff-4b6f-864a-942d804db0b2.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZjYjQ3ZGVlLThhNjAtNDZlNi1iNWJmLTliMTJmZDBmNGMyM1wvZGVnN3ptbC04OWNkMjBlMC1hM2ZmLTRiNmYtODY0YS05NDJkODA0ZGIwYjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wBrddJOdO08ykTNlA_dmw2IrlPmwBFXhMwMr2E-GgbM">
     <div align="center">
     <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Wassup+!+Welcome+to+my+profile+!"></div>
 </div>
@@ -15,7 +15,7 @@
    const ME = {
             Skills: "Coder, Full Stack Developer",
         Main_Langs: "JS, Python",
-         Web_Langs: "Javascript",
+         Web_Langs: "Javascript, CSS",
               Tech: "NodeJs, Git",
                 SO: "Ubuntu, Windows",
     };
