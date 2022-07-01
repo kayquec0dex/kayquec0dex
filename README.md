@@ -1,7 +1,7 @@
 <div align='left'> 
     <a href="https://github.com/silvakayque">
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
-    <img src = "https://i.pinimg.com/736x/40/3d/fd/403dfddcb96ecea81d455bcf2dae47c0.jpg">
+    <img src = "https://i.pinimg.com/originals/15/2e/49/152e49bba0e107a9eee7657789935987.gif">
     <div align="center">
     <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Wassup+!+Welcome+to+my+profile+!"></div>
 </div>
