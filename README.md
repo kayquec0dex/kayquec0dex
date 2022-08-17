@@ -13,8 +13,8 @@
     
  ```js
    const ME = {
-            Skills: "Coder, Full Stack Developer",
-        Main_Langs: "JS, Python",
+            Skills: "Coder, Front-end Developer",
+        Main_Langs: "Javascript",
          Web_Langs: "Javascript, CSS",
               Tech: "NodeJs, Git",
                 SO: "Ubuntu, Windows",
