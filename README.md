@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   
-  ### For Me>
+  ### For Me >
     
  ```js
    const ME = {
@@ -17,7 +17,7 @@
         Main_Langs: "Javascript",
          Web_Langs: "Javascript, CSS",
               Tech: "NodeJs, Git",
-                SO: "Ubuntu, Windows",
+                SO: "Ubuntu",
     };
 ```
 
