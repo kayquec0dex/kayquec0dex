@@ -13,11 +13,9 @@
     
  ```js
    const ME = {
-            Skills: "Coder, Back-end Developer",
+            Skills: "Game Developer",
         Main_Langs: "JS, CSharp, C++",
-         Web_Langs: "Javascript, CSS",
-          Services: "Azure, AWS",
-              Tech: "Git, NodeJs",
+              Tech: "Git",
                 SO: "Windows and Ubuntu",
     };
 ```
