@@ -15,7 +15,7 @@
    const ME = {
             Skills: "Game Developer",
         Main_Langs: "JS, CSharp, C++",
-            Tech: "Git",
+        Tech: "Git",
             SO: "Windows and Ubuntu",
     };
 ```
