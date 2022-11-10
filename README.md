@@ -13,7 +13,7 @@
     
  ```js
    const ME = {
-            Skills: "Game Developer",
+            Skills: "Coder, Backend Developer, Game Developer",
         Main_Langs: "JS, CSharp, C++",
         Tech: "Git",
             SO: "Windows and Ubuntu",
