@@ -50,7 +50,7 @@
      
 <div>
   <a href="https://github.com/silvakayque">
-  <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=silvakayque&theme=defaut&hide_border=true"/>
+  <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=silvakayque&hide_border=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
 <div>
                            
