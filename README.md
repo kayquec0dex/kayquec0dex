@@ -45,7 +45,7 @@
  ### Top Languages Uses
           
  <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
      
  ### Stats Graphic
      
