@@ -45,7 +45,7 @@
  ### Top Languages Uses
           
  <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=silvakayque"/>
+ <img height="180em" src="https://camo.githubusercontent.com/2b1a537634e10fdeb40f4d4676cfead75a897ed0f62651bf343179f4158e95bc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d3133646576266c61796f75743d636f6d70616374267468656d653d67726179776869746526686964655f626f726465723d74727565"/>
      
  ### Stats Graphic
      
