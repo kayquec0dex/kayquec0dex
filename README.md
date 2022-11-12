@@ -37,9 +37,10 @@
 
  ### My Github Stats
      
+</p>
 <div align="center">
-<a href="https://github.com/silvakayque">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/tanashic0dex">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
       
  ### Top Languages Uses
           
