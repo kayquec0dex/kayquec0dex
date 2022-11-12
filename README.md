@@ -39,18 +39,18 @@
      
 <div align="center">
 <a href="https://github.com/silvakayque">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
       
  ### Top Languages Uses
           
  <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvakayque&layout=compact&langs_count=7&theme=react"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvakayque&layout=compact&langs_count=7&theme=transparent"/>
       
  ### Stats Graphic
      
 <div>
   <a href="https://github.com/silvakayque">
-  <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=silvakayque&theme=react&hide_border=true"/>
+  <img height="190em" src="https://activity-graph.herokuapp.com/graph?username=silvakayque&theme=transparent&hide_border=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
 <div>
                            
