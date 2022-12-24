@@ -15,12 +15,11 @@
    </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
             Skills: "Coder, Engineer, AVL, Back-end Developer",
-        Main_Langs: "JS, CSharp, Python",
-      Casual_Langs: "Cobol, nodeJS", C (Literally)", 
+        Main_Langs: "JS, CSharp, Python", 
          Web_Langs: "Javascript, CSS",
-          Services: "Apache, Azure",
+          Services: "AWS, Docker",
               Tech: "Git, NodeJs",
-                SO: "Gentoo",
+                SO: "Windows, Ubuntu",
     };
 ```
 
