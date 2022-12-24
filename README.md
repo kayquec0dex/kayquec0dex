@@ -9,14 +9,18 @@
 </div>
 <div align="center">
   
-  ### For Me >
-    
- ```js
+   ### For Me>
+ 
+```js
+   </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
-            Skills: "Developer",
-        Main_Langs: "JS, CSharp,"
-        Tech: "Git",
-            SO: "Windows and Ubuntu",
+            Skills: "Coder, Engineer, AVL, Back-end Developer",
+        Main_Langs: "JS, CSharp, Python",
+      Casual_Langs: "Cobol, nodeJS", C (Literally)", 
+         Web_Langs: "Javascript, CSS",
+          Services: "Apache, Azure",
+              Tech: "Git, NodeJs",
+                SO: "Gentoo",
     };
 ```
 
