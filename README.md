@@ -46,10 +46,5 @@
  <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvakayque&layout=compact&theme=midnight-purple"/>
      
- ### Stats Graphic
-     
-<div>
-  <a href="https://github.com/silvakayque">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/
-<div>
+
                            
