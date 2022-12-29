@@ -16,7 +16,6 @@
    const ME = {
             Skills: "Coder, Engineer, Developer",
         Main_Langs: "JS, CSharp, Python", 
-         Web_Langs: "Javascript, CSS",
           Services: "AWS, Docker",
               Tech: "Git, NodeJs",
                 SO: "Windows, Ubuntu",
