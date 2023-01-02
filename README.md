@@ -15,8 +15,8 @@
    </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
             Skills: "Coder, Engineer, Developer",
-        Main_Langs: "JS, CSharp, C++", 
-          Services: "AWS, Docker",
+        Main_Langs: "JS", 
+          Services: "",
               Tech: "Git, NodeJs",
                 SO: "Windows, Ubuntu",
     };
