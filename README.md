@@ -5,9 +5,9 @@
     <div align="center">
     <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Wassup+!+Welcome+to+my+profile+!"></div>
 </div>
-    
 </div>
-
+    
+<div align="center">
  ### My Github Stats
      
 <div align="center">
