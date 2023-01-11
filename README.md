@@ -12,13 +12,7 @@
    ### For Me>
  
 ```js
-   </j'ai utilisé const, car j'évolue CONSTamment
-   const ME = {
-            Skills: "Coder, Developer",
-        Main_Langs: "", 
-          Services: "",
-              Tech: "Git",
-                SO: "Windows, Ubuntu",
+   Python Apprentice
     };
 ```
 
