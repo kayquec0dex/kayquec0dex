@@ -5,3 +5,17 @@
     <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Seja+muito+Bem-Vindo+ao+Perfil.">
 </div>
+</div>
+    
+<div align="center">
+  
+  ### For Me>
+ 
+```js
+   const Kayque = {
+        Main_Langs: "JS, CSharp, Python",
+         Web_Langs: "Javascript, CSS",
+              Tech: "Git, NodeJs",
+                SO: "Ubuntu",
+    };
+```
