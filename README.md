@@ -13,7 +13,7 @@
  
 ```js
    const Kayque = {
-        Main_Langs: "JS, CSharp, Python",
+        Main_Langs: "JS, C# for Games",
          Web_Langs: "Javascript, CSS",
               Tech: "Git, NodeJs",
                 SO: "Ubuntu",
