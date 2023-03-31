@@ -13,10 +13,10 @@
  
 ```js
    const Kayque = {
-        Main_Langs: "JS",
-         Web_Langs: "Javascript, CSS",
-              Tech: "Git, NodeJs",
-                SO: "Ubuntu",
+        Main_Langs: "",
+         Web_Langs: "",
+              Tech: "",
+                SO: "",
     };
 ```
     
