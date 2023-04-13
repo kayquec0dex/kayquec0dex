@@ -12,7 +12,7 @@
   ### For Me>
  
      </j'ai utilisé const, car j'évolue CONSTamment
-   const ME = {
+                        const ME = {
             Skills: "Coder, Engineer, AVL, Back-end Developer",
         Main_Langs: "JS, CSharp, Python",
       Casual_Langs: "Cobol, nodeJS", C (Literally)", 
