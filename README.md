@@ -11,14 +11,16 @@
   
   ### For Me>
  
-```js
-   const Kayque = {
-        Skills: "Coder, Back-end Developer",
-        Main_Langs: "C, C++ and CSharp",
+  </j'ai utilisé const, car j'évolue CONSTamment
+   const ME = {
+            Skills: "Coder, Back-end Developer",
+        Main_Langs: "",
+      Casual_Langs: "", C (Literally)", 
+         Web_Langs: "CSS",
+          Services: "",
               Tech: "Git",
                 SO: "Windows",
     };
-```
     
 <h3 align="center">Find me In</h3>
 <p align="center">
