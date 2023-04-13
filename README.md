@@ -11,15 +11,15 @@
   
   ### For Me>
  
-  </j'ai utilisé const, car j'évolue CONSTamment
+     </j'ai utilisé const, car j'évolue CONSTamment
    const ME = {
-            Skills: "Coder, Back-end Developer",
-        Main_Langs: "",
-      Casual_Langs: "", C (Literally)", 
-         Web_Langs: "CSS",
-          Services: "",
-              Tech: "Git",
-                SO: "Windows",
+            Skills: "Coder, Engineer, AVL, Back-end Developer",
+        Main_Langs: "JS, CSharp, Python",
+      Casual_Langs: "Cobol, nodeJS", C (Literally)", 
+         Web_Langs: "Javascript, CSS",
+          Services: "Apache, Azure",
+              Tech: "Git, NodeJs",
+                SO: "Gentoo",
     };
     
 <h3 align="center">Find me In</h3>
