@@ -18,8 +18,6 @@
             Skills: "Coder, Back-end Developer",
         Main_Langs: "Javascript",
       Casual_Langs: "C (Literally)", 
-         Web_Langs: "Javascript, CSS",
-          Services: "Apache, Azure",
               Tech: "Git, NodeJs",
                 SO: "Windows",
     };
