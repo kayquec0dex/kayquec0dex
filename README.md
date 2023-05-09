@@ -4,7 +4,8 @@
     <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
     <img src="https://github.com/tanashic0dex/tanashic0dex/blob/main/7a756c4b22b79583b4168034011694e9.jpg">
     <div align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Yo,+My+name+is+Watanashi;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=My+Name+is+Kayque.">
+
 </div>
     
 </div>
