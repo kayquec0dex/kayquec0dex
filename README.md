@@ -17,8 +17,8 @@
    const ME = {
             Skills: "Coder, Back-end Developer",
         Main_Langs: "Javascript",
-              Tech: "Git",
-                SO: "Windows",
+              Tech: "Git, AWS, Docker",
+                SO: "Ubuntu",
     };
 ```
 
