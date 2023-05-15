@@ -1,50 +1,44 @@
-<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=blue&style=flat">
-<div align='left'>
-    <a href="https://github.com/silvakayque">
-    <p align='center'><img align="center" alt="Rafa-pic" height="200"  border-radius= "50%" 
-    <img src="https://github.com/tanashic0dex/tanashic0dex/blob/main/7a756c4b22b79583b4168034011694e9.jpg">
-    <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=008BFF&vCenter=true&multiline=true&lines=Bem+vindos+ao+meu+perfil+!">
-</div>
-</div>
-    
-<div align="center">
-  
-  ### For Me>
- 
-```js
-   </j'ai utilisé const, car j'évolue CONSTamment
-   const ME = {
-            Skills: "Coder, Back-end Developer",
-        Main_Langs: "Javascript",
-              Tech: "Git, Docker",
-                SO: "Ubuntu",
-    };
-```
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h3 align="center">Find me In</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Kayque;I'm+19+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=silvakayque&bg_color=5e4fb5&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
-<a href="https://twitter.com/@silvakayque021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@silvakayque021" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kayquesilva021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silvakayque021" height="30" width="40" /></a>
-<a href="https://instagram.com/@ssilvakayque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ssilvakayque" height="30" width="40" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=silvakayque101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<h3 align="center">Languages & Frameworks</h3>
-<p align="center"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-</p>
 
- ### My Github Stats
-     
-</p>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="Kayque Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvakayque&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
+</div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/ssilvakayque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ssilvakayque" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kayquesilva021/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kayque Silva" height="30" width="40" /></a>
+<a href="https://twitter.com/@silvakayque021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@silvakayque021." height="30" width="40" /></a>
+ </div>
+ 
+ ### Proficiencies:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
+
+
+### Working for:
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 <div align="center">
-  <a href="https://github.com/silvakayque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      
- ### Top Languages Uses
-          
- <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvakayque&layout=compact&langs_count=7&theme=midnight-purple"/>
-       
-<div>
+<img src="https://komarev.com/ghpvc/?username=ArthurHydr&color=ff69b4&style=flat">
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+
+
                            
