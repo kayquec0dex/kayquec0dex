@@ -15,11 +15,7 @@ class Attributes {
   }
 
   static coding() {
-    const langs = {
-      expert: ['javascript'],
-      intermediate: ['c', 'c++'],
-      learning: ['python', 'java']
-    };
+    const langs = [javascript, python]
     const specialities = ['fullstack developer'];
     const environnement = ['vscode'];
 
