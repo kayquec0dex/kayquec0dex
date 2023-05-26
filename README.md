@@ -1,25 +1,25 @@
 ```js
-class Attributes extends Kayque {
-    static contact() {
-        let discord = "polak#8702";
-        let instagram = "@ssilvakayque";
+public class Attributes extends Kayque {
+    public static Object[] contact() {
+        String discord = "polak#8702";
+        String instagram = "@ssilvakayque";
         
-        return [discord, instagram];
+        return new Object[] {discord, instagram};
     }
     
-    static life() {
-        let langs = ['English', 'Portuguese'];
-        let age = 19;
+    public static Object[] life() {
+        String[] langs = {"English", "Portuguese"};
+        int age = 19;
         
-        return [langs, age];
+        return new Object[] {langs, age};
     }
     
-    static coding() {
-        let langs = [java, python];
-        let specialities = ['backend'];
-        let environnement = ['vscode'];
+    public static Object[] coding() {
+        String[] langs = {"java", "python"};
+        String[] specialities = {"backend"};
+        String[] environnement = {"vscode"};
         
-        return [langs, specialities, environnement];
+        return new Object[] {langs, specialities, environnement};
     }
 }
 ```
