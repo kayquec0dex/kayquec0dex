@@ -15,7 +15,7 @@ public class Attributes extends Kayque {
     }
     
     public static Object[] coding() {
-        String[] langs = {"Java", "Python"};
+        String[] langs = {"Java", "Python", "Javascript"};
         String[] specialities = {"Backend"};
         String[] environnement = {"VSCode", "Eclipse IDE"};
         
