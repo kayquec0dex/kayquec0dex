@@ -1,4 +1,4 @@
-```js
+```java
 public class Attributes extends Kayque {
     public static Object[] contact() {
         String discord = "polak#8702";
