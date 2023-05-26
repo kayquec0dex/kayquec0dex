@@ -1,26 +1,26 @@
 ```js
-class Attributes {
-  static contact() {
-    const discord = "polak#8702";
-    const instagram = "@ssilvakayque";
-
-    return [discord, telegram];
-  }
-
-  static life() {
-    const langs = ['English', 'Portuguese'];
-    const age = 19;
-
-    return [langs, age];
-  }
-
-  static coding() {
-    const langs = [javascript, python]
-    const specialities = ['fullstack developer'];
-    const environnement = ['vscode'];
-
-    return [langs, specialities, environnement];
-  }
+class Attributes extends Kayque {
+    static contact() {
+        let discord = "polak#8702";
+        let instagram = "@ssilvakayque";
+        
+        return [discord, instagram];
+    }
+    
+    static life() {
+        let langs = ['English', 'Portuguese'];
+        let age = 19;
+        
+        return [langs, age];
+    }
+    
+    static coding() {
+        let langs = [javascript, python];
+        let specialities = ['web/app reverse engineering', 'fullstack'];
+        let environnement = ['vscode'];
+        
+        return [langs, specialities, environnement];
+    }
 }
 ```
 
