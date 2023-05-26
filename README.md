@@ -15,8 +15,8 @@ class Attributes extends Kayque {
     }
     
     static coding() {
-        let langs = [javascript, python];
-        let specialities = ['web/app reverse engineering', 'fullstack'];
+        let langs = [java, python];
+        let specialities = ['backend'];
         let environnement = ['vscode'];
         
         return [langs, specialities, environnement];
