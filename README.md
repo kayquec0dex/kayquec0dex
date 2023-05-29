@@ -1,24 +1,24 @@
-```java
-public class Attributes extends Kayque {
-    public static Object[] contact() {
-        String discord = "polak#8702";
-        String instagram = "@ssilvakayque";
-        
-        return new Object[] {discord, instagram};
-    }
+```js
+class Attributes extends Kayque {
+  static contact() {
+    let discord = "polak#8702";
+    let instagram = "@ssilvakayque";
     
-    public static Object[] life() {
-        String[] langs = {"English", "Portuguese"};
-        int age = 19;
-        
-        return new Object[] {langs, age};
-    }
+    return [discord, instagram];
+  }
+
+  static life() {
+    let langs = ["English", "Portuguese"];
+    let age = 19;
     
-    public static Object[] coding() {
-        String[] langs = {"Javascript"};
-        
-        return new Object[] {langs, specialities, environnement};
-    }
+    return [langs, age];
+  }
+
+  static coding() {
+    let langs = ["Javascript"];
+    
+    return [langs];
+  }
 }
 ```
 
