@@ -1,23 +1,24 @@
 ```js
 class Attributes extends Kayque {
   static contact() {
-    let discord = "polak#8702";
-    let instagram = "@ssilvakayque";
+    const discord = "polak#8702";
+    const instagram = "@ssilvakayque";
     
     return [discord, instagram];
   }
-
+  
   static life() {
-    let langs = ["English", "Portuguese"];
-    let age = 19;
+    const langs = ['Português', 'English'];
+    const age = 19;
     
     return [langs, age];
   }
-
+  
   static coding() {
-    let langs = ["Javascript"];
+    const langs = ['javascript'];
+    const environment = ['vscode'];
     
-    return [langs];
+    return [langs, environment];
   }
 }
 ```
