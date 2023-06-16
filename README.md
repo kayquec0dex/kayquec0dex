@@ -1,29 +1,24 @@
-```js
+```php
 class Attributes extends Kayque {
-  static contact() {
-    const discord = "polak#8702";
-    const instagram = "@ssilvakayque";
-    
-    return [discord, instagram];
-  }
-  
-  static life() {
-    const langs = ['Português', 'English'];
-    const age = 19;
-    
-    return [langs, age];
-  }
-  
-  static coding() {
-    const langs = ['javascript'];
-    const environment = ['vscode'];
-    
-    return [langs, environment];
-  }
-}
-```
+    public static function contact() {
+        $discord = "polakznx";
+        $instagram = "@ssilvakayque";
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=silvakayque&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="silvakayque github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvakayque&layout=compact&hide_border=true&title_color=7B68EE&text_color=7B68EE&bg_color=0d1117" />
-</div>
+        return array($discord, $instagram);
+    }
+
+    public static function life() {
+        $langs = array('português', 'inglês');
+        $age = 19;
+
+        return array($langs, $age);
+    }
+
+    public static function coding() {
+        $langs = array('php', 'javascript');
+        $specialities = array('web/app reverse engineering', 'fullstack');
+        $environnement = array('vscode');
+
+        return array($langs, $specialities, $environnement);
+    }
+}
