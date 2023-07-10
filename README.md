@@ -15,7 +15,7 @@ class Attributes extends Kayque {
     }
 
     public static function coding() {
-        $langs = array('php', 'javascript');
+        $langs = array('javascript');
         $specialities = array('web/app reverse engineering', 'fullstack');
         $environnement = array('vscode');
 
