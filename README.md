@@ -1,24 +1,24 @@
-```php
+```js
 class Attributes extends Kayque {
-    public static function contact() {
-        $discord = "polakznx";
-        $instagram = "@ssilvakayque";
+    static contact() {
+        let discord = "polakznx";
+        let instagram = "@ssilvakayque";
 
-        return array($discord, $instagram);
+        return [discord, instagram];
     }
 
-    public static function life() {
-        $langs = array('português', 'inglês');
-        $age = 19;
+    static life() {
+        let langs = ['português', 'inglês'];
+        let age = 19;
 
-        return array($langs, $age);
+        return [langs, age];
     }
 
-    public static function coding() {
-        $langs = array('javascript');
-        $specialities = array('web/app reverse engineering', 'fullstack');
-        $environnement = array('vscode');
+    static coding() {
+        let lang = 'javascript';
+        let specialty = 'back-end';
+        let environnement = 'vscode';
 
-        return array($langs, $specialities, $environnement);
+        return [langs, specialities, environnement];
     }
 }
