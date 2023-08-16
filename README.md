@@ -15,7 +15,7 @@ class Attributes extends Kayque {
     }
 
     static coding() {
-        let lang = 'javascript';
+        let langs = ['javascript', 'php'];
         let specialty = 'back-end';
         let environnement = 'vscode';
 
