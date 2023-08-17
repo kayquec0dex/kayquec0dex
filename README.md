@@ -8,7 +8,7 @@ class Attributes {
     }
     
     static life() {
-        const langs = ['portuguese', english'];
+        const langs = ['portuguese', 'english'];
         const age = 19;
         
         return [langs, age];
