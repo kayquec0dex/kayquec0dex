@@ -20,7 +20,7 @@ class Attributes {
             'learning': ['php', 'c', 'c++']
         };
 
-        const specialities = ['fullstack'];
+        const specialities = ['back-end'];
         const environnement = ['vscode'];
         
         return [langs, specialities, environnement];
