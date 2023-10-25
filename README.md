@@ -1,28 +1,28 @@
-```js
+```php
 class Attributes {
-    static contact() {
-        const discord = "polakznx";
-        const email = "kayqueeduardo28@gmail.com";
-        
-        return [discord, email];
-    }
-    
-    static life() {
-        const langs = ['portuguese', 'english'];
-        const age = 19;
-        
-        return [langs, age];
-    }
-    
-    static coding() {
-        const langs = {
-            'intermediate': ['javascript'],
-            'learning': ['php', 'c', 'c++']
-        };
+    public static function contact() {
+        $discord = "polakznx";
+        $email = "kayqueeduardo28@gmail.com";
 
-        const specialities = ['back-end'];
-        const environnement = ['vscode'];
-        
-        return [langs, specialities, environnement];
+        return [$discord, $email];
+    }
+
+    public static function life() {
+        $langs = ['portuguese', 'english'];
+        $age = 19;
+
+        return [$langs, $age];
+    }
+
+    public static function coding() {
+        $langs = [
+            'intermediate' => ['javascript'],
+            'learning' => ['php', 'c', 'c++']
+        ];
+
+        $specialities = ['back-end'];
+        $environnement = ['vscode'];
+
+        return [$langs, $specialities, $environnement];
     }
 }
