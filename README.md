@@ -20,7 +20,7 @@ class Attributes {
             'learning' => ['php', 'c', 'c++']
         ];
 
-        $specialities = ['back-end'];
+        $specialities = ['back-end', 'fullstack'];
         $environnement = ['vscode'];
 
         return [$langs, $specialities, $environnement];
