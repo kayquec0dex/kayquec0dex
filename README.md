@@ -16,8 +16,8 @@ class Attributes {
 
     public static function coding() {
         $langs = [
-            'intermediate' => ['javascript', 'php'],
-            'learning' => ['c', 'c++']
+            'intermediate' => ['javascript'],
+            'learning' => ['php', 'c', 'c++']
         ];
 
         $specialities = ['back-end', 'fullstack'];
