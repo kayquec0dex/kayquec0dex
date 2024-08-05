@@ -3,7 +3,7 @@
 
 ```py
 
-◦ They fear the Kayque!
+◦ They fear the KayqueC0dex!
 
 ◦ KayqueC0dex @github
 
