@@ -11,8 +11,8 @@
 ```py
 
 • 🤖 DevOps.
-• 👨🏻‍💻 Learning Web development.
-• 🌟 Main languages: Python.
+• 👨🏻‍💻 Web development.
+• 🌟 Main languages: Python, PHP.
 ```
 
 --------------------------------------
