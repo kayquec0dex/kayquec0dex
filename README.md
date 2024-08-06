@@ -29,12 +29,6 @@ Né segredo
   </tr>
 <tr>
     <td align="center">
-      <a href="https://discord.com/users/530845576460369951">
-        <img align="center" alt="Discord" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" />
-      </a>
-  </tr>
-<tr>
-    <td align="center">
       <a href="https://x.com/kayquedmp">
         <img align="center" alt="Discord" width="20px" src="https://simpleicons.vercel.app/x/000" />
       </a>
