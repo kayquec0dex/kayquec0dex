@@ -10,7 +10,7 @@
 ```
 ```py
 
-Languages : py
+Languages : Python
 Né segredo
 ```
 
