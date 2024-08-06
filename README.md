@@ -10,9 +10,8 @@
 ```
 ```py
 
-• 🤖 DevOps.
-• 👨🏻‍💻 Web development.
-• 🌟 Main languages: Python, PHP.
+Languages : py
+Né segredo
 ```
 
 --------------------------------------
