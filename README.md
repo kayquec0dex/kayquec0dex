@@ -10,7 +10,7 @@
 ```
 ```py
 
-Languages : c# - c++ - py
+Languages : py
 Né segredo
 ```
 
