@@ -3,9 +3,9 @@
 
 ```py
 
-◦ They fear the KayqueC0dex!
+They fear the KayqueC0dex!
 
-◦ KayqueC0dex @github
+KayqueC0dex @github
 
 ```
 ```py
