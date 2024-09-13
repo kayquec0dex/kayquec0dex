@@ -10,7 +10,7 @@ KayqueC0dex @github
 ```
 ```py
 
-Languages : PHP - Python - Bash
+Languages : Python - Bash
 Né segredo
 ```
 
