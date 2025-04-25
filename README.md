@@ -23,7 +23,7 @@ Né segredo
 <table align="center" border="0">
   <tr>
     <td align="center">
-      <a href="https://discord.com/users/530845576460369951">
+      <a href="https://discord.com/users/759482217226567730">
         <img align="center" alt="Discord" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" style="margin-right: 10px; border-radius: 50%;" />
       </a>
     </td>
