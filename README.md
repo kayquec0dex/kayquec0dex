@@ -28,7 +28,7 @@ Né segredo
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/kayquedmp">
+      <a href="https://x.com/polakzzzz">
         <img align="center" alt="X" width="20px" src="https://simpleicons.vercel.app/x/6366f1" style="margin-left: 10px; border-radius: 50%;" />
       </a>
     </td>
